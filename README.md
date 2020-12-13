@@ -15,3 +15,6 @@ face_shape.h5 is the saved trained model.
 
 In the folder Task B2, the file named eye_color.ipynb is the final CNN method used in task B2 with test result on the separate test dataset, I also wated to 
 upload the corresponding .h5 file as the saved model, but Github said that the file is too big to upload.
+
+The additional files put of the four folders are different methods I tried during the assignment as "the GitHub commit history evidencing how you gradually built and
+tested your solution" asked in the description file.
