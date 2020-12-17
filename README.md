@@ -18,3 +18,6 @@ upload the corresponding .h5 file as the saved model, but Github said that the f
 
 The additional files put of the four folders are different methods I tried during the assignment as "the GitHub commit history evidencing how you gradually built and
 tested your solution" asked in the description file.
+
+The link of "face_shape.h5" is https://drive.google.com/file/d/1fnDFh296pIxpCcsr7WW-AMC_tFK4LZSO/view?usp=sharing
+The link of "eye_color.h5" is https://drive.google.com/file/d/1Bg6ENJ_DkBr1xOBnatzdggnZYxGFmy47/view?usp=sharing
